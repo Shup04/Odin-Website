@@ -1,0 +1,37 @@
+html, body {
+    margin:0;
+    padding:0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0px auto;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header {
+    width: 100%;
+    background-color: #1f2937;
+}
+
+.logo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link {
+    margin: 10px;
+    font-size: 18px;
+    font-weight: light;
+    color: #e5e7eb;
+}
