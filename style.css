@@ -35,3 +35,21 @@ header {
     font-weight: light;
     color: #e5e7eb;
 }
+
+body {
+    width: 100%;
+    background-color: #1f2937;
+}
+
+.hero {
+    width: 100%;
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-info {
+    text-align: left;
+    width: 50%;
+}
