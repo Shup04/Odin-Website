@@ -169,3 +169,11 @@ button {
     border-color: white;
     border-style: solid;
 }
+
+footer {
+    background-color: #1F2937;
+    height: 50px;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
